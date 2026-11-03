@@ -1,7 +1,7 @@
 # Real Estate Investment Advisor
 
 An end-to-end ML project for real-estate investment analysis.
-link: https://real-estate-investment-proj.streamlit.app/
+- Link: https://real-estate-investment-proj.streamlit.app/
 
 
 ## Tasks
