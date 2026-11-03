@@ -88,11 +88,11 @@ st.sidebar.caption("ML-powered property investment analysis")
 page = st.sidebar.radio(
     "Go to",
     [
-        " Prediction",
-        " Data",
-        " Visualizations",
-        " Model Insights",
-        " About"
+        "🔮 Prediction",
+        "📊 Data",
+        "📈 Visualizations",
+        "🤖 Model Insights",
+        "ℹ️ About"
     ]
 )
 
@@ -106,7 +106,7 @@ st.sidebar.caption(
 # =========================================================
 # PREDICTION PAGE
 # =========================================================
-if page == " Prediction":
+if page == "🔮 Prediction":
 
     st.title(" Prediction")
     st.write(
@@ -656,9 +656,9 @@ elif page == "🤖 Model Insights":
 # =========================================================
 # ABOUT PAGE
 # =========================================================
-else:
+elif page == "ℹ️ About":
 
-    st.title("ℹ️ About the Project")
+    st.title(" About the Project")
 
     st.markdown("""
     ## Real Estate Investment Advisor
